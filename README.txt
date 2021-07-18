@@ -18,10 +18,10 @@ Setup:
 
 On each following turn, until the board is filled:
     3. For each of the player's head-stones on the board:
-        a. The player may move their head-stone to any adjacent space, unless it is occupied by another stone. (Diagonals are not allowed)
+        3.1. (Option a) The player may move their head-stone to any adjacent space, unless it is occupied by another stone. (Diagonals are not allowed)
            OR
-           If the head-stone is adjacent to a contiguous group of the player's own stones, the player may move their head-stone to any space in that group. (Multiple of the player's own stones may occupy the same space)
-        b. If the space where the head-stone used to be is unoccupied, that players puts their own tail-stone in that space.
+           (Option b) If the head-stone is adjacent to a contiguous group of the player's own stones, the player may move their head-stone to any space in that group. (Multiple of the player's own stones may occupy the same space)
+        3.2. If the space where the head-stone used to be is unoccupied, that players puts their own tail-stone in that space.
     4. The player may drop a head-stone onto any unoccupied space on the board.
 
 Winning:
