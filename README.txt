@@ -1,4 +1,4 @@
-GAME TYPE
+THE GAME OF GROW
 Abstract strategy board game, with similarities to Go and Tron.
 Intended for 3-4 players. Playable with 2+
 
