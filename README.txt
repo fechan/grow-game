@@ -16,7 +16,7 @@ Setup:
     1. Determine turn order. (Dice roll is suggested. Highest roll goes first. The person to the left/clockwise goes next)
     2. Each player, in order, puts a head-stone on any unoccupied space on the board.
 
-On each following turn, until the board is filled:
+On each following turn, until the board is filled (Steps 3 & 4 can be completed in any order):
     3. For each of the player's head-stones on the board:
         3.1. (Option a) The player may move their head-stone to any adjacent space, unless it is occupied by another stone. (Diagonals are not allowed)
            OR
